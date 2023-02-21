@@ -1,0 +1,15 @@
+C:\Users\maxpr\OneDrive\Робочий стіл\University\Lam 17.02\Lam 17.02\bin\Debug\net6.0\Lam 17.02.exe
+C:\Users\maxpr\OneDrive\Робочий стіл\University\Lam 17.02\Lam 17.02\bin\Debug\net6.0\Lam 17.02.deps.json
+C:\Users\maxpr\OneDrive\Робочий стіл\University\Lam 17.02\Lam 17.02\bin\Debug\net6.0\Lam 17.02.runtimeconfig.json
+C:\Users\maxpr\OneDrive\Робочий стіл\University\Lam 17.02\Lam 17.02\bin\Debug\net6.0\Lam 17.02.dll
+C:\Users\maxpr\OneDrive\Робочий стіл\University\Lam 17.02\Lam 17.02\bin\Debug\net6.0\Lam 17.02.pdb
+C:\Users\maxpr\OneDrive\Робочий стіл\University\Lam 17.02\Lam 17.02\obj\Debug\net6.0\Lam 17.02.csproj.AssemblyReference.cache
+C:\Users\maxpr\OneDrive\Робочий стіл\University\Lam 17.02\Lam 17.02\obj\Debug\net6.0\Lam 17.02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxpr\OneDrive\Робочий стіл\University\Lam 17.02\Lam 17.02\obj\Debug\net6.0\Lam 17.02.AssemblyInfoInputs.cache
+C:\Users\maxpr\OneDrive\Робочий стіл\University\Lam 17.02\Lam 17.02\obj\Debug\net6.0\Lam 17.02.AssemblyInfo.cs
+C:\Users\maxpr\OneDrive\Робочий стіл\University\Lam 17.02\Lam 17.02\obj\Debug\net6.0\Lam 17.02.csproj.CoreCompileInputs.cache
+C:\Users\maxpr\OneDrive\Робочий стіл\University\Lam 17.02\Lam 17.02\obj\Debug\net6.0\Lam 17.02.dll
+C:\Users\maxpr\OneDrive\Робочий стіл\University\Lam 17.02\Lam 17.02\obj\Debug\net6.0\refint\Lam 17.02.dll
+C:\Users\maxpr\OneDrive\Робочий стіл\University\Lam 17.02\Lam 17.02\obj\Debug\net6.0\Lam 17.02.pdb
+C:\Users\maxpr\OneDrive\Робочий стіл\University\Lam 17.02\Lam 17.02\obj\Debug\net6.0\Lam 17.02.genruntimeconfig.cache
+C:\Users\maxpr\OneDrive\Робочий стіл\University\Lam 17.02\Lam 17.02\obj\Debug\net6.0\ref\Lam 17.02.dll
